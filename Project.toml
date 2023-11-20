@@ -1,0 +1,4 @@
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+FastaIO = "a0c94c4b-ebed-5953-b5fc-82fe598ac79f"
+Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"

@@ -1,0 +1,39 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.9.2"
+manifest_format = "2.0"
+project_hash = "9e4bf4e3179f609951ec86dbdebbc9846d0484a7"
+
+[[deps.DelimitedFiles]]
+deps = ["Mmap"]
+git-tree-sha1 = "9e2f36d3c96a820c678f2f1f1782582fcf685bae"
+uuid = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+version = "1.9.1"
+
+[[deps.FastaIO]]
+deps = ["GZip"]
+git-tree-sha1 = "acc357fd78405a0bc52413b0b97f4a47d5e648e3"
+uuid = "a0c94c4b-ebed-5953-b5fc-82fe598ac79f"
+version = "1.0.2"
+
+[[deps.GZip]]
+deps = ["Libdl", "Zlib_jll"]
+git-tree-sha1 = "6388a2d8e409ce23de7d03a7c73d83c5753b3eb2"
+uuid = "92fee26a-97fe-5a0c-ad85-20a5f3185b63"
+version = "0.6.1"
+
+[[deps.Libdl]]
+uuid = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[[deps.Mmap]]
+uuid = "a63ad114-7e13-5084-954f-fe012c677804"
+
+[[deps.Pipe]]
+git-tree-sha1 = "6842804e7867b115ca9de748a0cf6b364523c16d"
+uuid = "b98c9c47-44ae-5843-9183-064241ee97a0"
+version = "1.3.0"
+
+[[deps.Zlib_jll]]
+deps = ["Libdl"]
+uuid = "83775a58-1f1d-513f-b197-d71354ab007a"
+version = "1.2.13+0"
